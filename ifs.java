@@ -12,6 +12,7 @@ public class ifs {
         System.out.println("You are Not allowed in Gaming Center");
 
     }
+    sc.close();
     }
 
 }

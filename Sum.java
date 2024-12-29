@@ -9,6 +9,6 @@ public class Sum {
 
        System.out.println(c);
        System.out.println("Sum of Two Numbers"+ (a+b));
-
+       sc.close();
     }
 }

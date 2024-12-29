@@ -7,6 +7,7 @@ public class simple_methods {
         int b=sc.nextInt();
         int so =addds(a,b);
         System.out.println(so);
+        sc.close();
     }
     // 1st method
     public static void adds(int x,int y){

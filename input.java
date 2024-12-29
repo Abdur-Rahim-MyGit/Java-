@@ -16,7 +16,7 @@ public class input {
     System.out.println(roll);
     System.out.println(gender);
     System.out.println(Marks);
-
+    sc.close();
 
 
 

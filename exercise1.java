@@ -12,6 +12,7 @@ public class exercise1 {
         System.out.println(avg);
         String sample ="sample txt";
         System.err.println(sample);
+        sc.close();
 
     }
 }

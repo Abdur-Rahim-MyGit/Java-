@@ -17,6 +17,7 @@ public class switchcases {
         default:
         System.out.println("wrong Input - Select Souban in 2nd ");
         break;
-     }   
+        
+     }      sc.close();
     }
 }

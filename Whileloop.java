@@ -9,6 +9,6 @@ public class Whileloop {
             System.out.println( table + " X " + nums + " = "+nums*table);
             // nums=nums+1;
             nums++;
-        }
+        }   sc.close();
     }
 }
